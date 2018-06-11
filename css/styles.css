@@ -1,0 +1,14 @@
+li>a.active-page{
+    background: #337ab7;
+}
+
+.active-page{
+    color: white;
+}
+
+div.post-title{
+    padding-top: 20px;
+}
+div.post-title>h1{
+    display: inline;
+}
